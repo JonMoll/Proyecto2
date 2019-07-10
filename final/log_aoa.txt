@@ -1,0 +1,80 @@
+epoch: 0
+acuracy_train: 0.658135775862069 f1_train: 0.4418342488830764
+epoch: 1
+acuracy_train: 0.7262931034482759 f1_train: 0.6325660108608795
+epoch: 2
+acuracy_train: 0.759698275862069 f1_train: 0.692240830918733
+epoch: 3
+acuracy_train: 0.8052262931034483 f1_train: 0.7549213284672636
+epoch: 4
+acuracy_train: 0.8316271551724138 f1_train: 0.7823368298251937
+epoch: 5
+acuracy_train: 0.8531788793103449 f1_train: 0.8138307540251638
+epoch: 6
+acuracy_train: 0.8952047413793104 f1_train: 0.8700107939268523
+epoch: 7
+acuracy_train: 0.9040948275862069 f1_train: 0.8832446979999266
+epoch: 8
+acuracy_train: 0.9404633620689655 f1_train: 0.9245965016122352
+epoch: 9
+acuracy_train: 0.9568965517241379 f1_train: 0.9467796361391511
+epoch: 10
+acuracy_train: 0.9703663793103449 f1_train: 0.9618474420434554
+epoch: 11
+acuracy_train: 0.9787176724137931 f1_train: 0.9733883814842113
+epoch: 12
+acuracy_train: 0.9792564655172413 f1_train: 0.9735493021123925
+epoch: 13
+acuracy_train: 0.9841056034482759 f1_train: 0.9814573438506072
+epoch: 14
+acuracy_train: 0.9905711206896551 f1_train: 0.9885240957391961
+epoch: 15
+acuracy_train: 0.9876077586206896 f1_train: 0.9846307840027325
+epoch: 16
+acuracy_train: 0.9913793103448276 f1_train: 0.9901300700489282
+epoch: 17
+acuracy_train: 0.9983836206896551 f1_train: 0.9981393840977028
+epoch: 18
+acuracy_train: 0.9983836206896551 f1_train: 0.9981817212910435
+epoch: 19
+acuracy_train: 0.9983836206896551 f1_train: 0.9982231701446552
+epoch: 20
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 21
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 22
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 23
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 24
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 25
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 26
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 27
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 28
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 29
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 30
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 31
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 32
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 33
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 34
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 35
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 36
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 37
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 38
+acuracy_train: 1.0 f1_train: 1.0
+epoch: 39
+acuracy_train: 1.0 f1_train: 1.0

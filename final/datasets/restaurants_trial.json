@@ -1,0 +1,951 @@
+{
+    "opinions": [
+        {
+            "sentence": "all the appetizers and salads were fabulous the steak was mouth watering and the pasta was delicious",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "and really large portions",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "go inside and you wont want to leave",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "save yourself the time and trouble and skip this one",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "the sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "service was quick",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "oh dont even let me start with how expensive the bills were",
+            "aspects": [
+                {
+                    "category": "price",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "service is top notch",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the best thing i tasted were the lambc hops",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "overall i would recommend it and go back again",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "ive been here a couple of times and have not been impressed",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "even though its good seafood the prices are too high",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "in addition the food is very good and the prices are reasonable",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food is great and authentic",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i was at raos last wed",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "i recommend the garlic shrimp okra bindi and anything with lamb",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the menu was impressive with selections ranging from a burger to steak to escargot",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "very good breads as well",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "anyway the food is good the price is right and they have a decent wine list",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food was lousy too sweet or too salty and the portions tiny",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "but the coconut rice was good",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "and the tom kha soup was pathetic",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "the food now is inconsistent",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "try the crunchy tuna it is to die for",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "reasonable prices",
+            "aspects": [
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "everything at sala thai is tasty and wellportioned",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "unfortunately the food was not something to get worked up about",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "the food is great and reasonably priced",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i got enough reasons to keep coming back",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "their calzones are horrific bad vomitinducing yuck",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "a few tips skip the turnip cake roast pork buns and egg custards",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "the bagels are fabulous",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i never had anything i didnt like here",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i definitely wouldnt go back",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "while the ambiance and atmosphere were great the food and service could have been a lot better",
+            "aspects": [
+                {
+                    "category": "ambience",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                },
+                {
+                    "category": "service",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "our waitress was sweet and accomodating not overbearing",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i have tried literally every restaurant on curry row",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "my goodness everything from the fish to the rice to the seaweed was absolutely amazing",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i went to this restaurant with a woman that i met recently",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "good spreads great beverage selections and bagels really tasty",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food options rule",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "consistently good japanese tapas",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i went to ruby foos after work with a group of ",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "the sushi was awful",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "my boyfriend and i went there to celebrate my birthday the other night and all i can say is that it was magnificent",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "now its so crowded and loud you cant even talk to the person next to you",
+            "aspects": [
+                {
+                    "category": "ambience",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "go go hurry before everyone finds out about it",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "ive been many time and have never been disappointed",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food was great",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "dont leave without trying one night in tokyo",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i would go back tho",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "definately check it out",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "you cannot go wrong with this place",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "as a japanese native ive lived in the tristate area for over  years but i was just so amazed at this place",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i loving bringing friends here and i do so every chance i get",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "with the theater  blocks away we had a delicious meal in a beautiful room",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "ambience",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "even my indian friend couldnt believe how good and tasty everything was",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "we were not dissappointed in the least bit by this little gem",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "a pleasant surprise",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "this was a repeat visit and well definitely be back again",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i love the fact that the pizza tastes so good and is so cheap",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "service was prompt friendly and great",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "ou must try this restaurant",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "all pretty good",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "have eaten at ginger house several times and its always good",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "i havent eat a lamb chop as delicious as that the salads are really nice dressed with lemon and extra virgnin olive oil",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "drawbacks service is slow and they dont toast",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "it is by far my favorite restaurant in brooklyn",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "ive been to joya twice and i will never go again",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "a hearty two thumbs up",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "great find",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "if only they delivered theyd make a mint",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "was surprisingly disappointed",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "the prices were fantastic",
+            "aspects": [
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "im told that it is open hrs which is good",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "what more could you want",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "excellent experience",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "definitely a neighborhood favorite",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food is terrible and overall i would have to say avoid at all costs",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "the food is prepared quickly and efficiently",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food is fresh delicious and reasonably priced",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "this is my favorite italian restaurant in all of new york city",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "anyway this is the last time i cross the williamsburg",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "i am bringing my whole family back next time",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "love yuka",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "as we were leaving the couple standing by the door said to another waiter were not in a hurry",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "i have been coming to this neighborhood spot for years",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "we will be back",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the outdoor atmosphere of sitting on the sidewalk watching the world go by  feet away on th avenue on a cool evening was wonderful",
+            "aspects": [
+                {
+                    "category": "ambience",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "a large is  and toppings are about  each",
+            "aspects": [
+                {
+                    "category": "price",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "the spicy tuna and salmon are the best weve ever had",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "a guaranteeed delight",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food was very good a great deal and the place its self was great",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "ambience",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the food is usually good but it certainly isnt a relaxing place to go",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "ambience",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "after dinner take your date to the huge dance floor probably one of the biggest youll see in ny",
+            "aspects": [
+                {
+                    "category": "ambience",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the server was really cool and served us our food and drinks with a smile",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "the dishes offered were unique very tasty and fresh from the lamb sausages sardines with biscuits large whole shrimp to the amazing pistachio ice cream the best and freshest ive ever had",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "went there for an office lunch",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        }
+    ]
+}

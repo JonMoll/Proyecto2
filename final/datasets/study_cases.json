@@ -1,0 +1,48 @@
+{
+    "opinions": [
+        {
+            "sentence": "a large is 20 and toppings are about 3 each",
+            "aspects": [
+                {
+                    "category": "price",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "the service was on point",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                }
+            ]
+        },
+        {
+            "sentence": "even though its good seafood the prices are too high",
+            "aspects": [
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "price",
+                    "polarity": "negative"
+                }
+            ]
+        },
+        {
+            "sentence": "i recommend it for not just its cuisine but also for its service",
+            "aspects": [
+                {
+                    "category": "service",
+                    "polarity": "positive"
+                },
+                {
+                    "category": "food",
+                    "polarity": "positive"
+                }
+            ]
+        }
+    ]
+}

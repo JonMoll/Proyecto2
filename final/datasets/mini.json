@@ -1,0 +1,31 @@
+{
+    "opinions": [
+        {
+            "sentence": "went there for an office lunch",
+            "aspects": [
+                {
+                    "category": "miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "went there for an office lunch",
+            "aspects": [
+                {
+                    "category": "anecdotes",
+                    "polarity": "neutral"
+                }
+            ]
+        },
+        {
+            "sentence": "went there for an office lunch",
+            "aspects": [
+                {
+                    "category": "anecdotes miscellaneous",
+                    "polarity": "neutral"
+                }
+            ]
+        }
+    ]
+}
