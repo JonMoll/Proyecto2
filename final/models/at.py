@@ -20,10 +20,10 @@ class AT(nn.Module):
                             batch_first=True, # La primera dimension de la entrada es el tamaño del batch
                             bidirectional=False)
         
-        self.M_linear_upper = nn.Linear(in_features=self.hidden_dim, 
+        self.M_linear_first = nn.Linear(in_features=self.hidden_dim, 
                                  out_features=self.hidden_dim)
         
-        self.M_linear_lower = nn.Linear(in_features=self.max_aspect_len*self.embedding_dim, 
+        self.M_linear_second = nn.Linear(in_features=self.max_aspect_len*self.embedding_dim, 
                                  out_features=self.max_aspect_len*self.embedding_dim)
         
         self.tanh = nn.Tanh()
@@ -68,62 +68,34 @@ class AT(nn.Module):
     def forward(self, sentences, aspects):
         sentences_embedding = self.embedding(sentences)
         sentence_len = len(sentences_embedding[0])
-        #print('sentences_embedding')
-        #print(sentences_embedding.size())
         
         aspects_embedding = self.embedding(aspects)
         aspects_embedding = self.JoinRepeatWords(aspects_embedding, sentence_len)
-        #print('aspects_embedding')
-        #print(aspects_embedding.size())
 
         H, (h_n, _) = self.lstm(sentences_embedding)
-        #print('H')
-        #print(H.size())
         
         h_n = torch.transpose(h_n, 0, 1) # Dim del batch primero
-        #print('h_n')
-        #print(h_n.size())
 
-        WH = self.M_linear_upper(H)
-        #print('WH')
-        #print(WH.size())
+        WH = self.M_linear_first(H)
 
-        WVa = self.M_linear_lower(aspects_embedding)
-        #print('WVa')
-        #print(WVa.size())
+        WVa = self.M_linear_second(aspects_embedding)
 
         WH_WVa = torch.cat((WH, WVa), dim=2)
-        #print('WH_WVa')
-        #print(WH_WVa.size())
 
         M = self.tanh(WH_WVa)
-        #print('M')
-        #print(M.size())
 
         alpha = self.alpha_linear(M)
         alpha = torch.transpose(alpha, 1, 2)
         alpha = F.softmax(alpha, dim=2)
-        #print('alpha')
-        #print(alpha.size())
 
         r = torch.matmul(alpha, H)
-        #print('r')
-        #print(r.size())
 
         Wr = self.h_ast_linear_first(r)
-        #print('Wr')
-        #print(Wr.size())
 
         Wh_n = self.h_ast_linear_second(h_n)
-        #print('Wh_n')
-        #print(Wh_n.size())
 
         h_ast = self.tanh(Wr + Wh_n)
-        #print('h_ast')
-        #print(h_ast.size())
 
         y = self.classification(h_ast).squeeze()
-        #print('y')
-        #print(y.size())
 
         return y, alpha
